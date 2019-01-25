@@ -1,0 +1,113 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="en">
+<head>
+    <title>This is my official Webpage</title>
+    <link rel="stylesheet" type="text/css" href="mypage.css"/>
+</head>
+<body>
+    <h1>James Lund III</h1>
+    <p1>Run <a href="SpecRunner.html">Jasmine Tests</a></p1>
+    <img id="top" src="/Users/bidamin/Pictures/acepilotjones.jpg" height="420" width="420">
+    <p2>
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi facilisis ultricies pharetra. Aenean arcu risus, consectetur vitae mattis a, luctus in ipsum. Nulla aliquam justo eget lectus euismod, vitae tincidunt velit condimentum. Nunc sodales dolor lacus, viverra tincidunt odio placerat a. Vivamus sed vehicula lacus. Phasellus mollis, purus vel feugiat elementum, est ex imperdiet turpis, eu scelerisque lectus metus a lacus. Donec posuere sem orci, id dignissim odio gravida vitae. Nunc iaculis, ligula quis sagittis hendrerit, nulla velit imperdiet velit, et lobortis eros diam et ligula. Donec congue, mauris tempor consequat ullamcorper, quam sapien blandit quam, lacinia varius urna mauris vitae ipsum. Nunc facilisis cursus turpis, vel molestie felis posuere eget. Donec accumsan purus viverra accumsan lacinia. Nam nec leo placerat, dignissim sapien ac, auctor nunc. Suspendisse potenti.
+
+        Vivamus tincidunt justo vitae laoreet rutrum. Sed rhoncus euismod risus sit amet dapibus. Mauris tempor auctor nunc vel condimentum. Etiam quis quam congue, tempus ante quis, tincidunt lectus. Nam ultrices justo vel hendrerit feugiat. Donec at lacus non leo placerat bibendum. Donec pulvinar felis non ipsum pharetra gravida. Suspendisse id convallis libero, non commodo tellus. Sed at massa nibh. Suspendisse accumsan dolor massa, ultrices tempor odio iaculis at. Duis ornare metus at leo porttitor, pulvinar pellentesque sem gravida. Nulla luctus hendrerit nunc, id ornare dolor tempus vel. Aenean libero sapien, accumsan quis tortor ut, aliquam egestas neque.
+        
+        Fusce eu lectus gravida, tristique dui vestibulum, feugiat ligula. Suspendisse dolor ligula, venenatis sed lacus ac, finibus posuere justo. Duis metus magna, luctus eget elit a, tempus interdum justo. Nullam volutpat non nisl a posuere. Pellentesque dapibus eu leo quis euismod. Donec dapibus interdum augue quis pharetra. Ut lorem velit, molestie in metus id, sollicitudin pulvinar enim. Interdum et malesuada fames ac ante ipsum primis in faucibus. Interdum et malesuada fames ac ante ipsum primis in faucibus.
+        
+        Integer quis maximus lectus. Quisque ullamcorper eget arcu id sagittis. Donec tempor sollicitudin leo et mollis. Nulla dictum, augue ac mattis vehicula, odio nulla ornare lectus, in ullamcorper turpis augue imperdiet arcu. Donec commodo ullamcorper ipsum. Cras tellus nulla, aliquam eu sapien nec, blandit imperdiet sem. Ut placerat scelerisque tempus. Duis congue cursus sodales. Phasellus eleifend non nisi sed ultrices. Etiam nunc ipsum, iaculis nec erat quis, tincidunt tristique leo. Aliquam dapibus erat vitae lacus rutrum tincidunt.
+        
+        Donec tempor convallis magna, ac tristique elit cursus non. Fusce at dictum magna, non tristique est. Fusce aliquam ultricies turpis, ut lobortis urna lacinia vitae. Fusce fermentum interdum luctus. Duis a orci vestibulum, hendrerit libero sit amet, tempor augue. Praesent sodales at lectus at suscipit. Fusce vitae finibus quam, eu condimentum nunc. Donec sodales magna eget neque mattis, lacinia pellentesque nulla cursus. Duis sagittis libero vitae finibus finibus. Aliquam ac consequat odio, et feugiat nulla. Aliquam non ligula leo. Curabitur vulputate posuere dui, quis semper libero ornare ac. Pellentesque quis purus at felis bibendum laoreet. Nullam aliquet, risus sed viverra aliquam, tellus quam dapibus erat, at maximus ipsum erat eget dui.
+    </p2>
+    <table id="mainTable">
+    <tr>
+        <td>
+          <div class="info">
+            <ul>
+            <li>Video Games</li>
+            <li>Set up my other machine</li>
+            <li>Longboard</li>
+            <li>Drink Coffee</li>
+          </ul>
+          </div>
+        </td>
+        <td>
+          <div class="info" id="para">
+            <img id="Jim" src="/Users/bidamin/Pictures/JR.jpg">
+            <p>Jim Rohn is a business philosopher from the 20th century. He unfortunately passed away
+              in 2009 but his message was left behind. He wanted to help people achieve their dreams
+              and in doing so he has been giving seminars since the early 80s on how to be your best 
+              version of yourself. His words echo through my work ethic and as a result, I will devote 
+              my life to helping others. 
+            </p>
+          </div>
+        </td>
+    </tr>
+    <tr>
+        <td>
+          <div class="info">
+            <ol>
+            <li>Code</li>
+            <li>Study at school</li>
+            <li>Work</li>
+          </ol>
+          </div>
+        </td>
+        <td>
+          <div class="info">
+            <table id="courseTable" border="border">
+              <tr>
+                <th>Cnum</th>
+                <th>Title</th>
+                <th>Credits</th>
+              </tr>
+              <tr>
+                  <td>163</td>
+                  <td>Computer Science II</td>
+                  <td>4</td>
+              </tr>
+              <tr>
+                  <td>371</td>
+                  <td>Web App</td>
+                  <td>3</td>
+              </tr>
+              <tr>
+                  <td>343</td>
+                  <td>Structures of programming languages</td>
+                  <td>3</td>
+              </tr>
+              <tr>
+                  <td>351</td>
+                  <td>Comp Org</td>
+                  <td>3</td>
+              </tr>
+              <tr>
+                  <td>457</td>
+                  <td>Data Comm</td>
+                  <td>4</td>
+              </tr>
+            </table>
+          </div>
+        </td>
+    </tr>
+    <tr>
+        <td>
+          <div class="info links">
+            <a class="links" href="https://github.com/lundjrl">Check out my Github!     </a>
+            <a class="links" href="https://www.reddit.com/search?q=unixporn">Check out these rices!     </a>
+            <a class="links" href="https://www.youtube.com/user/gorillaz/videos">This is my favorite band.      </a>
+          </div>
+        </td>
+        <td>
+          <div class="info">
+            <q class="best" cite="https://best-quotations.com/latin-quotes.php?page=1">One night awaits everyone.</q>
+            <p></p>
+            <q cite="https://best-quotations.com/latin-quotes.php?page=1">If I cannot sway the heavens, I will raise hell.</q>
+            <p></p>
+            <q cite="https://www.realmofhistory.com/2018/06/04/30-ancient-roman-latin-phrases-sayings/">Omnium Rerum Principia Parva Sunt.</q>
+          </div>
+        </td>
+    </tr>
+  </table>  
+</body>
+</html>

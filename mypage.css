@@ -1,0 +1,63 @@
+html{
+    font: times, medium;
+    color: black;
+    background-color: darkturquoise;
+}
+h1{
+  color:fuchsia;
+  font-family: 'Courier New', Courier, monospace;
+}
+img#top{
+  float: right;
+  margin-left: 3em;
+  margin-bottom: 3em;
+}
+.info{
+    background-color: fuchsia;
+    color: black;
+    margin: 1em;
+    padding: 1em;
+}
+.JR{
+    background-color: fuchsia;
+    color: black;
+    margin: 5px;
+    padding: 5px;
+    font-size: small;
+} 
+img#Jim{
+    display: block;
+    font: small;
+    margin-left: auto;
+    margin-right: auto;
+}
+div td:nth-child(1){
+  text-align: center;
+}
+div td:nth-child(3){
+  text-align: center;
+}
+div tr:nth-child(2){
+  background-color: pink;
+}
+tr:nth-child(4){
+  background-color: pink;
+}
+tr:nth-child(6){
+  background-color: pink;
+}
+div ol{
+  list-style-type: lower-alpha;
+}
+.best{
+  font-style: italic;
+}
+table p{
+  font-size: small;
+}
+.links{
+  background-color: fuchsia;
+}
+table#mainTable{
+  border: 0px solid black;
+}
